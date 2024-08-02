@@ -1,1 +1,1 @@
-# PersonalFinanceManagementSyatem
+# PersonalFinanceManagementSystem
